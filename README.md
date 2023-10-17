@@ -9,8 +9,12 @@
 I am currently an aspiring Game Programmer with a strong skillset in Unreal Engine and Unity. I have a deep passion for turning my vision into reality with coding. Currently, I am pursuing a Game Design Bachelor's Degree in France at ICAN Lyon. If you believe that I possess the required skills to collaborate with you, please don't hesitate to contact me at ✉️ **herrera.enzo26@gmail.com**.
 
 <p align="center">
+  <a href="herrera.enzo26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/enzo-herrera-851036274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="enzohrrr"/></a>
+  <a href="https://github.com/enzohrrr/enzohrrr.github.io.git" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
 </p>
 
 ---
