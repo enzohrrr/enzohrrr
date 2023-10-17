@@ -23,6 +23,7 @@ I am currently an aspiring Game Programmer with a strong skillset in Unreal Engi
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Blender" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" /> </a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Illustrator" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" /> </a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Photoshop" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" /> </a>
+<a href="" target="_blank" rel="noreferrer"> <img align="left" alt="HTML 5" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" /> </a>
 <br />
 <br />
 
