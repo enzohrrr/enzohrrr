@@ -22,6 +22,7 @@ I am currently an aspiring Game Programmer with a strong skillset in Unreal Engi
 ### 🧰 Languages and Tools
 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img align="left" alt="UnrealEngine" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" /> </a>
+<a href="https://www.youtube.com/watch?v=uOiccQx20d8" target="_blank" rel="noreferrer"> <img align="left" alt="CPP" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" /> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Unity" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" /> </a>
 <a href="https://www.youtube.com/watch?v=sCtixpIWBto&ab_channel=Rousseau" target="_blank" rel="noreferrer"> <img align="left" alt="CS" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" /> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Blender" width="64" height="64" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" /> </a>
