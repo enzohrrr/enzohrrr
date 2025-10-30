@@ -66,6 +66,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/enzo-herrera-851036274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="enzohrrr"/></a>
-  <a href="https://github.com/enzohrrr/enzohrrr.github.io.git" target="_blank">
+  <a href="https://enzohrrr.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
 </p>
